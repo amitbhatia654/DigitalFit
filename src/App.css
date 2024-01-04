@@ -1,38 +1,31 @@
-.App {
-  text-align: center;
+.hirebtn {
+    color: black;
+    background-color: yellow;
+    font-size: 22px;
+    margin-right: 100px;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.mylogo {
+    font-size: 38px;
+    font-weight: bold;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.mylogo1 {
+    color: blue;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.mylogo2 {
+    font-size: 16px;
 }
 
-.App-link {
-  color: #61dafb;
+.about {
+    font-size: 33px;
+    font-weight: bold;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.about2 {
+    background-color: rgb(230, 224, 224);
 }
